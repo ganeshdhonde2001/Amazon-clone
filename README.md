@@ -11,7 +11,7 @@ Cart and Orders: The cart icon and return & orders section also replicate Amazon
 <br>
 2. Main Banner: <br>
 Promotional Banner: The image showing gifts for "dads who have it all" with tech gadgets like headphones and cameras is visually appealing. A large banner like this draws attention and aligns with e-commerce trends where promotional banners are used for special deals and seasonal sales. <br>
-Local Marketplace Prompt: The message about being on Amazon.com and the link to Amazon India shows an attempt to provide location-based suggestions, a feature commonly seen on the original website.
+Local Marketplace Prompt: The message about being on Amazon.com and the link to Amazon India shows an attempt to provide location-based suggestions, a feature commonly seen on the original website.<br>
 ![image](https://github.com/user-attachments/assets/ead4881a-aa2c-45cd-b824-b6a1b0e4b70d)
 
  <br>
