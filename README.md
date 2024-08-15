@@ -13,7 +13,8 @@ Cart and Orders: The cart icon and return & orders section also replicate Amazon
 Promotional Banner: The image showing gifts for "dads who have it all" with tech gadgets like headphones and cameras is visually appealing. A large banner like this draws attention and aligns with e-commerce trends where promotional banners are used for special deals and seasonal sales. <br>
 Local Marketplace Prompt: The message about being on Amazon.com and the link to Amazon India shows an attempt to provide location-based suggestions, a feature commonly seen on the original website.
  <br>
- ![image](https://github.com/user-attachments/assets/4152e654-ae67-4833-980c-fb1047862aa5)<br>
+![image](https://github.com/user-attachments/assets/98b19ca9-2d4d-4dd3-9a48-a38c67e3cf8e)
+br>
  <br>
 3. Category Layout:<br>
 Category Tiles: Below the banner, there are different category tiles for "Clothes," "Health & Personal Care," "Furniture," and "Electronics." This grid structure is simple and effective for guiding users toward specific product categories.<br>
